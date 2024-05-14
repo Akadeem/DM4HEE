@@ -6,32 +6,43 @@ The files that can be downloaded in this repository are labelled to correspond t
 Chapter 2
 
 Exercise 2.5: Template (Ex25temp.xls)
+
 Exercise 2.5: Solution (Ex25sol.xls)
 
 Chapter 3
 
 Exercise 3.5: Template (Ex35temp.xls)
+
 Exercise 3.5: Solution ((Ex35sol.xls)
 
 Chapter 4
 
 Exercise 4.7: Template (Ex47temp.xls)
+
 Exercise 4.7: Solution (Ex47sol.xls)
+
 Exercise 4.8: Template (Ex48temp.xls)
+
 Exercise 4.8: Solution (Ex48sol.xls)
 
 Chapter 5
 
 Exercise 5.7: Template (Ex57temp.xls)
+
 Exercise 5.7: Solution (Ex57sol.xls)
+
 Exercise 5.8: Template (Ex58temp.xls)
+
 Exercise 5.8: Solution (Ex58sol.xls)
 
 Chapter 6
 
 Exercise 6.6a: Template (Ex66atemp.xls)
+
 Exercise 6.6a: Solution (Ex66asol.xls)
+
 Exercise 6.6b: Template (Ex66btemp.xls)
+
 Exercise 6.6b: Solution (Ex66bsol.xls)
 
 
